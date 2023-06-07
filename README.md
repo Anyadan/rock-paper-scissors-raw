@@ -1,5 +1,5 @@
 # rock-paper-scissors-raw
-A simple code to depict the popular game of Rock Paper Scissors using JavaScript . 
+Simple and efficient code to depict the popular game of Rock Paper Scissors using JavaScript . 
 
 User is able to play against the computer by making a choice using simple HTML buttons.
 The results of each match as well as the score count is shown and the user can reset the scores.
